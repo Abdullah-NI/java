@@ -1,6 +1,6 @@
 package _07_String;
 
-public class _95_containsAndstartsWithMethod {
+public class _095_containsAndstartsWithMethod {
     public static void main(String[] args) {
         String s="Physics wallah skills";
         System.out.println(s.contains("skills"));

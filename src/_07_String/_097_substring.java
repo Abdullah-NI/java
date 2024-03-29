@@ -1,6 +1,6 @@
 package _07_String;
 
-public class _97_substring {
+public class _097_substring {
     public static void main(String[] args) {
         String s="abcde";
 

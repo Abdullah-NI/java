@@ -1,6 +1,6 @@
 package _07_String;
 
-public class _96_toLowerCaseAndtoUpperCase {
+public class _096_toLowerCaseAndtoUpperCase {
     public static void main(String[] args) {
         String s="Raghave Garg IS 24 Yearse Old";
        // System.out.println(s.toLowerCase());  // only print hoga

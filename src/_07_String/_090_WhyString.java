@@ -1,6 +1,6 @@
 package _07_String;
 
-public class _90_WhyString {
+public class _090_WhyString {
     public static void main(String[] args){
         // string print
         System.out.println("I am Abdullah");

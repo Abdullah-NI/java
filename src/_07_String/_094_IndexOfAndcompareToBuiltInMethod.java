@@ -1,6 +1,6 @@
 package _07_String;
 
-public class _94_IndexOfAndcompareToBuiltInMethod {
+public class _094_IndexOfAndcompareToBuiltInMethod {
     public static void main(String[] args) {
         String s="Raghav Garg";
         System.out.println(s.indexOf('r'));

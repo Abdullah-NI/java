@@ -2,7 +2,7 @@ package _07_String;
 
 import java.util.Scanner;
 
-public class _98_PrintSubStringOfInputString {
+public class _098_PrintSubStringOfInputString {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a string");

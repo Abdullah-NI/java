@@ -1,6 +1,6 @@
 package _07_String;
 
-public class _92_BuiltInStringMethod {
+public class _092_BuiltInStringMethod {
     public static void main(String[] args) {
         String s="Raghav garg";
         System.out.println(s.charAt(4));
