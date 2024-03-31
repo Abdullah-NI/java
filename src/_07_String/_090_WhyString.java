@@ -3,7 +3,7 @@ package _07_String;
 public class _090_WhyString {
     public static void main(String[] args){
         // string print
-        System.out.println("I am Abdullah");
+        System.out.println("I am Abdullah ansari");
 
         //but here i cannot store this if i wannt to stote this then
 //
