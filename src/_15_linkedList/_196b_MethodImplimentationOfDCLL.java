@@ -34,6 +34,7 @@ package _15_linkedList;
             tail=tail.next;
 
             tail.next=head;       //yaha
+            head.prev=tail;
         }
         size++;
     }

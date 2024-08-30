@@ -93,6 +93,8 @@ class scll {
         }
         if(temp.next==tail) {
             tail=temp;
+//            tail.next=head;
+//            return;
         }
         temp.next=temp.next.next;
         size--;
@@ -138,10 +140,10 @@ public class _195b_methodImplementationOfSCLL {
         list.insert(2,100);
       //  list.display();
         list.deletAtHead();
-      //  list.display();
-        list.delet(2);
         list.display();
-        System.out.println(list.get(1));
+      list.delet(2);
+       list.display();
+       System.out.println(list.get(1));
         list.set(0,10000);;
         list.display();
 

@@ -26,7 +26,7 @@ package _15_linkedList;
          else{
              tail.next=temp;
              temp.prev=tail;
-             tail=tail.next;
+             tail=temp;
          }
          size++;
      }
