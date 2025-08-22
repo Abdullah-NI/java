@@ -35,7 +35,7 @@ public class _125_SelectionSort {
         print(arr);
 
 
-
+        //below code is wrong it not work on all cases
         // but according to me selection sort can be optimise and best case complexity is O(n)
 
 //        int[] arr={2,1,3,4,5};
